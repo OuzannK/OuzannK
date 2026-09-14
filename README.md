@@ -80,3 +80,7 @@ Got an idea or a question? Reach out here.<br>
   <sub>“Not as good as the best — as good as I can make it.”</sub><br>
   <sub><i>“En iyisi kadar değil, yapabildiğim kadar iyi.”</i></sub>
 </p>
+
+<p align="center">
+  <sub>Thanks for stopping by! · Uğradığın için teşekkürler!</sub>
+</p>
